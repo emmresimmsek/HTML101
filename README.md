@@ -1,2 +1,2 @@
 # HTML101
-Bu bir gülümseme emoji'sidir: :smile:
+I need to highlight these ==very important words==.
