@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- <p> </p> Tag Hakkında... 
+<p> etiketi, HTML içinde bir paragrafı tanımlamak için kullanılan bir yapıdır. -->
+
+
+<!--   
+
+--- Attributes ---    
+***title: Head alanındaki title ile karıştırılmamalıdır. Mouse ile üzerine geldiğince ekrana gelen yazıyı temsil eder. 
+***tabindex: Bu özellik, bir HTML öğesinin klavye ile odaklanılabilirliğini ve sıralamasını belirler.
+***dir: Bu özellik, bir HTML öğesinin metin yönünü belirtir.
+***lang: HTML'de kullanılan bir özniteliktir ve bir elementin dilini belirtmek için kullanılır.
+***translate:  Bu öznitelik, metin içeriğinin tercüme edilip edilmeyeceğini belirler. 
+-->    
+<!--  
+ --- Attributes --- 
+***id: Nesneye bir kimlik ataması yapar. Benzersiz bir kimliktir. Boşluk kullanılmaz ve Türkçe karakter kullanılmamalı...
+***class: HTML'de bir veya birden fazla öğeye aynı stilde veya özellikte tanımlama yapmak için kullanılır.
+***style: Bir HTML öğesine doğrudan CSS özellikleri atamanıza olanak tanır. 
+***hidden: Bir öğenin gizlendiğini belirtir. HTML5 ile tanıtılan bir özniteliktir.
+-->
+<!--
+--- Attributes --- 
+***contenteditable: Nesnenin düzenlenebilir olduğunu belirtir. true / false. 
+***spellcheck: Nesnenin içeriğinin yazım / dilbilgisi kurallarına uygun olup olmadığını kontrol eder. true / false. 
+***accesskey: Nesneye bir kısayol ataması yapar.     
+ -->
+ <!-- 
+--- Attributes --- 
+***contextmenu:  HTML'de bir öğenin sağ tıklama menüsünü özelleştirmek için kullanılan bir özelliktir.
+                 Bu özellik, bir öğeye özel bir bağlam menüsü (sağ tıklama menüsü) atamak için kullanılır. 
+                 Contextmenu özelliği belirli durumlarda yararlı olabilir, ancak yaygın olarak tercih edilen bir özellik değildir.
+ -->
+
+ <!--
+--- Attributes --- 
+Sürükle ve bırak (drag and drop) 
+***draggable:  Bu özellik, bir HTML öğesinin sürüklenip bırakılabilir olup olmayacağını belirtir. ( true/false ).
+***dropzone:  Bu özellik, sürüklenen öğelerin bırakılabileceği bir alana işaret eder.
+  -->      
+                
+
+<p title="Mouse ile üzerine geldiğince ekrana gelecek yazı.">This is some text in a paragraph.</p>
+    <p tabindex="1">1.paragraf</p>
+    <p tabindex="2">2.paragraf</p>
+    <p tabindex="3">3.paragraf</p>
+    <p lang="tr" > Türkçe İçerik</p>
+    <p lang="ing"> ingilizçe içerik </p>
+    <p translate="no" > 5.paragraf</p>
+ <!-- Classlarda .nokta, İdlerde  # işareti kullanıyoruz. Ulaşmak için!!!-->
+    <p id="idismi">id metnim</p>
+    <p class="classimiz">class örneği metnimiz 01</p>
+    <p class="classimiz">class örneği metnimiz 02</p>
+    <p class="classimiz">class örneği metnimiz 03</p>
+
+    
+    <p style="color: rgb(255, 0, 170);" >style örneği metnimiz </p>
+    <p hidden>Gizli Metin</p>
+
+    <p contenteditable="true">Düzenlenebilir metin</p>    
+    <p>Düzenlenemeyen metin</p>  
+    
+    <p accesskey="m">Kısayol ataması yapılmış metin</p>
+    <p spellcheck="true">Bu alana yazım denetimi etkinleştirilmiştir.</p>
+
+  
+
+
+
+
+
+
+
+
+    
+</body>
+</html>
