@@ -1,5 +1,5 @@
 # HTML101
-![HTML 5 Logo](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)
+![HTML 5 Logo](https://www.resimupload.org/images/2023/12/26/logo.png)
 
 Bu depo, **HTML** ile ilgili çalışma dosyalarımı içermektedir.   
 Projeyi yerel makinenize klonlayarak veya dosyaları indirerek inceleyebilirsiniz.  
