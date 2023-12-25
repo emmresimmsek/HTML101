@@ -1,5 +1,7 @@
 # HTML101
-Bu depo, **HTM**L ile çalışma dosyalarımı içermektedir.
+![HTML 5 Logo](https://www.w3.org/html/logo/img/mark-word-icon.png)
+
+Bu depo, **HTML** ile çalışma dosyalarımı içermektedir.
 Projeyi yerel makinenize klonlayarak veya dosyaları indirerek inceleyebilirsiniz.
 
 
