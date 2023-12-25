@@ -1,2 +1,6 @@
 # HTML101
-I need to highlight these ==very important words==.
+Bu depo, HTML ile çalışma dosyalarımı içermektedir.
+Projeyi yerel makinenize klonlayarak veya dosyaları indirerek inceleyebilirsiniz.
+
+
+
