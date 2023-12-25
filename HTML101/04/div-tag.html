@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>div Etiketi Ne İşe Yarar?</title>
+</head>
+<body>
+ <!-- HTML <div> Tag: HTML'de bir bölüm veya bir blok oluşturmak için kullanılan çok yaygın bir elementtir.  --> 
+<!-- 
+<div> etiketi block etikettir yani bir genişlik değeri (width) vermediğimiz sürece satırı olduğu gibi kaplar.
+Yükseklik olarakta içerisinde bulunan öğelerin sahip olduğu yükseklik kadar bir yüksekliğe sahip olurlar.    
+-->
+<div id="container" title="div etiketi" >
+                <div id="header" >
+                    "Div" etiketini tanıyoruz.
+                </div>
+            
+                <div id="content">
+                    "Div" etiketini öğrendim.
+                </div>	
+</div>
+<!--Bu container div' ini oluşturmaktaki maksat tüm içerikleri aynı anda ortak bir şekilde yönetmek.-->
+<!--Div 'lere verdiğimiz genişlik değerleri px cinsinden olmak zorunda değildir. -->
+<!--Yüzde olarak da değer verebiliriz. Örneğin tarayıcı genişliği o anda kaç ise <div>' in genişliğinin sayfanın %70'i kadar olmasını isteyebiliriz. -->     
+<!--Eğer bir <div> için bir yükseklik değeri verirsek ve içinde bulunan elemanların yüksekliği div in yüksekliğini 
+    aşarsa bu durumda oluşacak "overflow" yani "taşma" için bazı seçeneklerimiz vardır.-->
+<!-- overflow : auto | hidden | scroll | visible --> 
+<!-- 
+auto : eğer ki içeriklerin yüksekliği sabit değerli div in yüksekliğinden fazlaysa scrollbar çubukları yani dikey ve yatay kaydırma çubukları görünür hale gelecektir aksi halde görünmez.
+hidden : bu durumda taşma olan kısım görünmez hale getirilir.
+scrool : auto' nun aksine her zaman kaydırma çubukları görünür eğer taşma yoksa bile pasif bir şekilde kaydırma çubuklarını görebiliriz.
+visible : taşmalar görünür olur.
+-->   
+
+
+</body>
+</html>

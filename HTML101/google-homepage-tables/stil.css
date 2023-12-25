@@ -1,0 +1,36 @@
+body, html {
+
+color: rgb(255, 255, 255);
+margin: 0;
+padding: 0;
+}
+i{
+font-size: 20px;
+color: rgb(94, 94, 94);
+
+}
+
+td{
+
+    font-family: 'Albert Sans', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    color: rgb(94, 94, 94);
+}
+input{
+
+width: 500px;
+height: 60px;
+border-radius: 60px;
+color: rgb(152, 152, 152);
+
+
+}
+.trtext {
+
+
+    background-color: rgb(238, 238, 238);
+}
+.othertext {
+
+    background-color: rgb(238, 238, 238); 
+}
