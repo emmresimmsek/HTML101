@@ -1,5 +1,5 @@
 # HTML101
-![HTML 5 Logo](https://www.w3.org/html/logo/img/mark-word-icon.png)
+![HTML 5 Logo](https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png)
 
 Bu depo, **HTML** ile ilgili çalışma dosyalarımı içermektedir.   
 Projeyi yerel makinenize klonlayarak veya dosyaları indirerek inceleyebilirsiniz.  
