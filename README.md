@@ -10,7 +10,6 @@ HTML5, web sayfaları oluşturmak için kullanılan bir işaretleme dilidir. Gel
 
 `<table>` etiketini kullanarak hazırladığım çalışmaya "**google-homepage-tables**" klasöründen ulaşabilirsiniz.
 `<table>` etiketi "mail imza" ve "mail bülteni" hazırlamak için kullanıldığı için ayrıca bir çalışma hazırlayarak ısınmak istedim.
-
 ![Web Site Image ](https://www.resimupload.org/images/2023/12/26/com.google390933c7010cc6ee.png)
 
 
